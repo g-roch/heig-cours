@@ -22,3 +22,6 @@
 [submodule "res"]
 	path = cours/res
 	url = git@github.com:g-roch/heig-res.git
+[submodule "tools/bot"]
+	path = tools/bot
+	url = git@github.com:g-roch/heig-bot.git
