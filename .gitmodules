@@ -79,3 +79,6 @@
 [submodule "cours/pro/manuel"]
 	path = cours/pro/manuel
 	url = git@github.com:HEIGVD-PRO-A-07/HEIGVD-PRO-A-07-manuel.git
+[submodule "cours/pro/notes"]
+	path = cours/pro/notes
+	url = git@github.com:g-roch/heig-pro-notes.git
