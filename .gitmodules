@@ -1,24 +1,24 @@
 [submodule "ana"]
-	path = ana
+	path = cours/ana
 	url = git@github.com:g-roch/heig-ana.git
 [submodule "gen"]
-	path = gen
+	path = cours/gen
 	url = git@github.com:g-roch/heig-gen.git
 [submodule "mad"]
-	path = mad
+	path = cours/mad
 	url = git@github.com:g-roch/heig-mad.git
 [submodule "pco"]
-	path = pco
+	path = cours/pco
 	url = git@github.com:g-roch/heig-pco.git
 [submodule "slo"]
-	path = slo
+	path = cours/slo
 	url = git@github.com:g-roch/heig-slo.git
 [submodule "sos"]
-	path = sos
+	path = cours/sos
 	url = git@github.com:g-roch/heig-sos.git
 [submodule "srx"]
-	path = srx
+	path = cours/srx
 	url = git@github.com:g-roch/heig-srx.git
 [submodule "res"]
-	path = res
+	path = cours/res
 	url = git@github.com:g-roch/heig-res.git
