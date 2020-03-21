@@ -10,3 +10,12 @@
 [submodule "pco"]
 	path = pco
 	url = git@github.com:g-roch/heig-pco.git
+[submodule "slo"]
+	path = slo
+	url = git@github.com:g-roch/heig-slo.git
+[submodule "sos"]
+	path = sos
+	url = git@github.com:g-roch/heig-sos.git
+[submodule "srx"]
+	path = srx
+	url = git@github.com:g-roch/heig-srx.git
