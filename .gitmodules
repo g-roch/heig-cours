@@ -19,3 +19,6 @@
 [submodule "srx"]
 	path = srx
 	url = git@github.com:g-roch/heig-srx.git
+[submodule "res"]
+	path = res
+	url = git@github.com:g-roch/heig-res.git
