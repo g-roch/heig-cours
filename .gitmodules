@@ -4,3 +4,6 @@
 [submodule "gen"]
 	path = gen
 	url = git@github.com:g-roch/heig-gen.git
+[submodule "mad"]
+	path = mad
+	url = git@github.com:g-roch/heig-mad.git
