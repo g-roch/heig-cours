@@ -49,3 +49,9 @@
 [submodule "cours/srx/lab/lab01"]
 	path = cours/srx/lab/lab01
 	url = git@github.com:g-roch/heig-srx-lab01.git
+[submodule "cours/gen/lab/lab01"]
+	path = cours/gen/lab/lab01
+	url = git@github.com:g-roch/heig-gen-lab01.git
+[submodule "cours/gen/lab/lab02"]
+	path = cours/gen/lab/lab02
+	url = git@github.com:g-roch/heig-gen-lab02.git
