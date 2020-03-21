@@ -10,9 +10,6 @@
 [submodule "srx"]
 	path = cours/srx
 	url = git@github.com:g-roch/heig-srx.git
-[submodule "res"]
-	path = cours/res
-	url = git@github.com:g-roch/heig-res.git
 [submodule "tools/bot"]
 	path = tools/bot
 	url = git@github.com:g-roch/heig-bot.git
@@ -37,3 +34,15 @@
 [submodule "cours/pco/exo"]
 	path = cours/pco/exo
 	url = git@github.com:g-roch/heig-pco-exo.git
+[submodule "cours/res/cours"]
+	path = cours/res/cours
+	url = git@github.com:g-roch/heig-res-cours.git
+[submodule "cours/res/lab/lab00-Chill"]
+	path = cours/res/lab/lab00-Chill
+	url = git@github.com:g-roch/heig-res-lab00-Chill.git
+[submodule "cours/res/lab/lab01-Java-IO"]
+	path = cours/res/lab/lab01-Java-IO
+	url = git@github.com:g-roch/heig-res-lab01-Java-IO.git
+[submodule "cours/res/exo/exo01-Protocol-Design"]
+	path = cours/res/exo/exo01-Protocol-Design
+	url = git@github.com:g-roch/heig-res-exo01-Protocol-Design.git
