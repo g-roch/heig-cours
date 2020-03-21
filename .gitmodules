@@ -58,3 +58,9 @@
 [submodule "cours/pco/lab"]
 	path = cours/pco/lab
 	url = git@github.com:g-roch/heig-pco-lab.git
+[submodule "cours/slo/lab/lab00"]
+	path = cours/slo/lab/lab00
+	url = git@github.com:g-roch/heig-slo-lab00.git
+[submodule "cours/slo/lab/lab01"]
+	path = cours/slo/lab/lab01
+	url = git@github.com:g-roch/heig-slo-lab01.git
