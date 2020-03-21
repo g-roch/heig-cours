@@ -7,3 +7,6 @@
 [submodule "mad"]
 	path = mad
 	url = git@github.com:g-roch/heig-mad.git
+[submodule "pco"]
+	path = pco
+	url = git@github.com:g-roch/heig-pco.git
