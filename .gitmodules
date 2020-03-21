@@ -1,9 +1,6 @@
 [submodule "mad"]
 	path = cours/mad
 	url = git@github.com:g-roch/heig-mad.git
-[submodule "sos"]
-	path = cours/sos
-	url = git@github.com:g-roch/heig-sos.git
 [submodule "srx"]
 	path = cours/srx
 	url = git@github.com:g-roch/heig-srx.git
@@ -46,3 +43,6 @@
 [submodule "cours/slo/cours"]
 	path = cours/slo/cours
 	url = git@github.com:g-roch/heig-slo-cours.git
+[submodule "cours/sos/cours"]
+	path = cours/sos/cours
+	url = git@github.com:g-roch/heig-sos-cours.git
