@@ -1,6 +1,3 @@
-[submodule "gen"]
-	path = cours/gen
-	url = git@github.com:g-roch/heig-gen.git
 [submodule "mad"]
 	path = cours/mad
 	url = git@github.com:g-roch/heig-mad.git
@@ -31,3 +28,9 @@
 [submodule "cours/ana/notes"]
 	path = cours/ana/notes
 	url = git@github.com:g-roch/heig-ana-notes.git
+[submodule "cours/gen/cours"]
+	path = cours/gen/cours
+	url = git@github.com:g-roch/heig-gen-cours.git
+[submodule "cours/gen/exo"]
+	path = cours/gen/exo
+	url = git@github.com:g-roch/heig-gen-exo.git
