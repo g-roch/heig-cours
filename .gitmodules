@@ -64,3 +64,6 @@
 [submodule "cours/slo/lab/lab01"]
 	path = cours/slo/lab/lab01
 	url = git@github.com:g-roch/heig-slo-lab01.git
+[submodule "cours/sos/lab/lab01"]
+	path = cours/sos/lab/lab01
+	url = git@github.com:g-roch/heig-sos-lab01.git
