@@ -1,0 +1,3 @@
+[submodule "ana"]
+	path = ana
+	url = git@github.com:g-roch/heig-ana.git
