@@ -4,3 +4,6 @@
 
 Publication du cours de Jean-Marc Bost : [20_HEIG-VD_Sécurité logicielle](https://cyberlearn.hes-so.ch/course/view.php?id=14959)
 
+## COVID-19
+
+Pas d'information pour le moment

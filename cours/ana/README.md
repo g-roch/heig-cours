@@ -6,3 +6,6 @@ Publication du cours de Khaled Gafaiti : [\\eistore1.einet.ad.eivd.ch\profs\KGT\
 
 Publication du cours de Jean-François Hêche : [\\eistore1.einet.ad.eivd.ch\profs\JHH\ANA-1920](\\eistore1.einet.ad.eivd.ch\profs\JHH\ANA-1920)
 
+## COVID-19
+
+Le cours reprendra au 30 mars, avec cyberlearn
