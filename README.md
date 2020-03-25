@@ -30,3 +30,7 @@ git submodule update
 - [SLO](cours/slo/README.md)
 - [SOS](cours/sos/README.md)
 - [SRX](cours/srx/README.md)
+
+## Outils
+
+- [Bot telegram pour vérifier les notes sur GAPS (en python)](tools/bot/)
