@@ -9,3 +9,5 @@ Publication du cours de Jean-François Hêche : [\\eistore1.einet.ad.eivd.ch\pro
 ## COVID-19
 
 Le cours reprendra au 30 mars, avec cyberlearn [20_HEIG-VD_ANA](https://cyberlearn.hes-so.ch/course/view.php?id=15340)
+
+La réponse au question se fera en Live grâce à Microsoft Teams
