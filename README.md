@@ -29,4 +29,4 @@ git submodule update
 - [RES](cours/res/README.md)
 - [SLO](cours/slo/README.md)
 - [SOS](cours/sos/README.md)
-- [SOS](cours/srx/README.md)
+- [SRX](cours/srx/README.md)
