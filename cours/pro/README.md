@@ -6,4 +6,9 @@ Publication des informations : [2020 HEIG-VD PRO](https://cyberlearn.hes-so.ch/c
 
 ## COVID-19
 
-Microsoft Teams sera utilisé (on est déjà dans l'équipe), on n'a pas plus d'information pour l'instant.
+Microsoft Teams est utilisé pour les comminucation.
+
+## Todo
+
+- [ ] `2020-04-09` {pre-covid} Présentation intermédiaire du projet
+- [ ] `2020-05-22` {pre-covid} Rendu du projet à 10⁰⁰

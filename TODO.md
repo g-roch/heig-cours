@@ -2,6 +2,8 @@
 - [ ] `2020-03-26` **pco** Rendre lab 03 à 13⁰⁰
 - [ ] `2020-03-30` **ana** Lire jusqu'à la page 5 de la section 1.4.2
 - [ ] `2020-03-30` **ana** Premier cours à distance à (8⁴⁵) 9⁰⁰
+- [ ] `2020-04-09` **pro** {pre-covid} Présentation intermédiaire du projet
 - [ ] `2020-04-10` **pco** ESTIMATION Rendre lab04
 - [ ] `2020-04-22` **gen** Lab03 - Rendu
+- [ ] `2020-05-22` **pro** {pre-covid} Rendu du projet à 10⁰⁰
 - [ ] `2020-06-15` **gen** Rendre Portfolio à 8⁰⁰ [Consigne](https://cyberlearn.hes-so.ch/mod/page/view.php?id=1102941)
