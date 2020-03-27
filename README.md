@@ -45,6 +45,10 @@ Pour mettre à jour `TODO.md`
 - [SOS](cours/sos/)
 - [SRX](cours/srx/)
 
+### Liste des choses à faires
+
+Un résumé des délais est disponiblible [TODO.md](./TODO.md)
+
 ## Outils
 
 - [Bot telegram pour vérifier les notes sur GAPS (en python)](tools/bot/)
