@@ -56,6 +56,8 @@ do
 	## Add parsing of README.md section Délai
 	DATA+=$(sed -r -e "$SCRIPT_SED" $directory/$cours/README.md 2> /dev/null \
 		| sed -e "s/\$cours/$cours/g")
+	DATA+="
+"
 done
 
 if [ $auto -eq 0 -o $future -eq 1 ]
