@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./delai.sh -a > TODO.md
+git update-index --add TODO.md

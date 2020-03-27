@@ -18,7 +18,15 @@ git submodule init
 git submodule update
 ```
 
+## Hooks
 
+Un hook est disponible pour mettre à jours automatiquement le fichier `TODO.md` à partir des fichiers `cours/*/README.md` avant chaque commit (et l'ajouter automatiquement au commit).
+
+Pour l'installer, executer la commande suivante (pour autant que vous ne soyer pas dans un sous-module) :
+
+```bas
+ln -s .hooks-pre-commit .git/hooks/pre-commit
+```
 
 ## Cours
 
