@@ -7,3 +7,8 @@ La diffusion du support de cours se fait avec un dépôt github : [SoftEng-HEIGV
 ## COVID-19
 
 Le cours se donnera sur Microsoft Teams en Live, et sera enregistré pour ceux qui aurait des problème de connexion.
+
+## Todo
+
+- [ ] `2020-03-20` Exo01 Calculator client-server
+- [ ] `2020-03-20` Study about example

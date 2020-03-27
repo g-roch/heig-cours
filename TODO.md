@@ -1,3 +1,5 @@
+- [ ] `2020-03-20` **res** Exo01 Calculator client-server
+- [ ] `2020-03-20` **res** Study about example
 - [x] `2020-03-26` **pco** Rendre lab 03 à 13⁰⁰
 - [ ] `2020-03-26` **pco** Exo 3, 4 & 6.1
 - [ ] `2020-03-30` **ana** Lire jusqu'à la page 5 de la section 1.4.2
