@@ -13,3 +13,5 @@ Microsoft Teams est utilisé pour la communication
 ## Todo
 
 - [ ] `2020-04-22` Lab03 - Rendu
+- [ ] `2020-06-15` Rendre Portfolio à 8⁰⁰ [Consigne](https://cyberlearn.hes-so.ch/mod/page/view.php?id=1102941)
+
