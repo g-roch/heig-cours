@@ -6,4 +6,9 @@ Publication du cours de Jean-Marc Bost : [20_HEIG-VD_Sécurité logicielle](http
 
 ## COVID-19
 
-Pas d'information pour le moment
+Les cours sont donnée sur Microsoft Teams
+
+## Todo
+
+- [ ] `2020-04-09` Rendre lab02
+
