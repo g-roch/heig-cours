@@ -29,7 +29,7 @@ d"
 while getopts "h?ad:ftm" opt; do
     case "$opt" in
     h|\?)
-        echo "USAGE : ./delai.sh [-a] [-d directory] [-f] [-t] [-m]"
+        echo "USAGE : ./todo-gen.sh [-a] [-d directory] [-f] [-t] [-m]"
 	echo "   -a      automatic mode (don't display date of today)"
 	echo "   -d dir  directory to scan"
 	echo "   -f      show only future"
@@ -84,7 +84,7 @@ fi
 
 if [ $markdown -eq 1 ]
 then
-	SCRIPT_SED="s/^\([0-9-]\+\) \([^\[]\+\)\(\[[^]]\+\] \)\(.\+\)$/- \3\`\1\` \2\4/
+	SCRIPT_SED="s/^\([0-9-]\+\) \([^\[]\+\) \(\[[^]]\+\] \)\(.\+\)$/- \3\`\1\` **\2** \4/
 	s/\[$TAG_COMPELETED\]/[x]/
 	s/\[$TAG_TODO\]/[ ]/
 	s/\[$TAG_IN_PROGRESS\]/[~]/

@@ -1,4 +1,4 @@
 #!/bin/sh
 
-./delai.sh -am > TODO.md
-git update-index --add TODO.md
+./todo-gen.sh -am > .TODO.md~
+git diff --no-index -- TODO.md .TODO.md~ && git diff --exit-code -- TODO.md
