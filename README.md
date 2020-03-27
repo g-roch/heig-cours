@@ -36,14 +36,14 @@ Pour mettre à jour `TODO.md`
 
 ## Cours
 
-- [ANA](cours/ana/README.md)
-- [GEN](cours/gen/README.md)
-- [PCO](cours/pco/README.md)
-- [PRO](cours/pro/README.md)
-- [RES](cours/res/README.md)
-- [SLO](cours/slo/README.md)
-- [SOS](cours/sos/README.md)
-- [SRX](cours/srx/README.md)
+- [ANA](cours/ana/)
+- [GEN](cours/gen/)
+- [PCO](cours/pco/)
+- [PRO](cours/pro/)
+- [RES](cours/res/)
+- [SLO](cours/slo/)
+- [SOS](cours/sos/)
+- [SRX](cours/srx/)
 
 ## Outils
 
