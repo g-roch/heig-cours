@@ -19,3 +19,9 @@ Microsoft Teams est utilisé pour poser les questions au prof.
 QtSDK, QtCreator
 (C++)
 
+## Todo
+
+- [ ] `2020-03-26` Exo 3, 4 & 6.1
+- [ ] `2020-03-26` Rendre lab 03 à 13⁰⁰
+- [ ] `2020-04-10` ESTIMATION Rendre lab04
+
