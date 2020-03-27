@@ -22,6 +22,6 @@ QtSDK, QtCreator
 ## Todo
 
 - [ ] `2020-03-26` Exo 3, 4 & 6.1
-- [ ] `2020-03-26` Rendre lab 03 à 13⁰⁰
+- [x] `2020-03-26` Rendre lab 03 à 13⁰⁰
 - [ ] `2020-04-10` ESTIMATION Rendre lab04
 
