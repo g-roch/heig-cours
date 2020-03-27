@@ -9,3 +9,7 @@ Publication du cours de Olivier Cuisenaire : [Cyberlearn 2020_GEN_OCE](https://c
 Le cours sera sous forme de capsule vidéo, disponible avec le playlist youtube : https://www.youtube.com/playlist?list=PLG57tLv9ytd5subNsXU7qbHKqVykpkCYD
 
 Microsoft Teams est utilisé pour la communication
+
+## Todo
+
+- [ ] `2020-04-22` Lab03 - Rendu
