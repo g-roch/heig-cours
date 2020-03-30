@@ -85,3 +85,6 @@
 [submodule "cours/gen/notes"]
 	path = cours/gen/notes
 	url = git@github.com:g-roch/heig-gen-notes.git
+[submodule "cours/srx/lab/lab03"]
+	path = cours/srx/lab/lab03
+	url = git@github.com:g-roch/heig-srx-lab03.git
