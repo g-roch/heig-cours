@@ -5,6 +5,7 @@
 - [x] `2020-03-30` **ana** Premier cours à distance à (8⁴⁵) 9⁰⁰
 - [ ] `2020-03-30` **ana** Lire jusqu'à la page 5 de la section 1.4.2
 - [ ] `2020-03-31` **ana** exo : 1.62; 1.63
+- [ ] `2020-04-06` **srx** Rendre lab 02 (IDS) à 23⁵⁹
 - [ ] `2020-04-09` **pro** {pre-covid} Présentation intermédiaire du projet
 - [ ] `2020-04-09` **slo** Rendre lab02
 - [ ] `2020-04-10` **pco** ESTIMATION Rendre lab04
