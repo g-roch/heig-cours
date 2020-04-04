@@ -93,4 +93,7 @@
 	url = git@github.com:g-roch/heig-slo-lab02.git
 [submodule "cours/gen/lab/lab03"]
 	path = cours/gen/lab/lab03
-	url = git@github.com:GEN-Monopoly/GEN-L-03.git
+	url = git@github.com:g-roch/heig-gen-lab03.git
+[submodule "cours/pro/orga"]
+	path = cours/pro/orga
+	url = git@github.com:HEIGVD-PRO-A-07/HEIGVD-PRO-A-07-Organisation.git
